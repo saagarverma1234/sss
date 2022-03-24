@@ -236,14 +236,14 @@
       <hr style="width: 50%;" class="top-hr">
          <div class="navbar-container">
             <div class="topnav" id="myTopnav">
-               <a href="#" class="active">Home</a>
+               <a href="/" class="active">Home</a>
                <a href="#ndis-plan">Your NDIS Plan</a>
                <a href="#contact-us">Contact Us</a>
                <a href="about.php">About Me</a>
-               <a href="#">Meet the Team</a>
-               <a href="#">Consultancy Services</a>
-               <a href="#">Privacy Policy</a>
-               <a href="#">Complaints & Complements</a>
+               <a href="team.php">Meet the Team</a>
+               <a href="consultancy.php">Consultancy Services</a>
+               <a href="privacy.php">Privacy Policy</a>
+               <a href="complaints.php">Complaints & Complements</a>
                <a href="javascript:void(0);" class="icon" onclick="myFunction()">
                <i class="fa fa-bars"></i>
                </a>
