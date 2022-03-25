@@ -237,8 +237,8 @@
          <div class="navbar-container">
             <div class="topnav" id="myTopnav">
                <a href="/" class="active">Home</a>
-               <a href="#ndis-plan">Your NDIS Plan</a>
-               <a href="#contact-us">Contact Us</a>
+               <a href="/#ndis-plan">Your NDIS Plan</a>
+               <a href="/#contact-us">Contact Us</a>
                <a href="about.php">About Me</a>
                <a href="team.php">Meet the Team</a>
                <a href="consultancy.php">Consultancy Services</a>
