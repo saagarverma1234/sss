@@ -154,6 +154,10 @@
          .hidden-bar {
             display: none;
          }
+         .extra-div {
+            display: flex;
+            justify-content: center;
+         }
 
          @media screen and (max-width: 600px) {
          .topnav a:not(:first-child) {display: none;}
@@ -227,6 +231,9 @@
          .white-box .logo {
             width: 100%;
          }
+         .extra-div {
+            display: block;
+         }
          }
       </style>
    </head>
@@ -235,18 +242,20 @@
       <img src="images/live-logo.png" class="logo logo-top">
       <hr style="width: 50%;" class="top-hr">
          <div class="navbar-container">
-            <div class="topnav" id="myTopnav">
-               <a href="/" class="active">Home</a>
-               <a href="/#ndis-plan">Your NDIS Plan</a>
-               <a href="/#contact-us">Contact Us</a>
-               <a href="about.php">About Me</a>
-               <a href="team.php">Meet the Team</a>
-               <a href="consultancy.php">Consultancy Services</a>
-               <a href="privacy.php">Privacy Policy</a>
-               <a href="complaints.php">Complaints & Complements</a>
-               <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-               <i class="fa fa-bars"></i>
-               </a>
+            <div class="extra-div">
+               <div class="topnav" id="myTopnav">
+                  <a href="/" class="active">Home</a>
+                  <a href="/#ndis-plan">Your NDIS Plan</a>
+                  <a href="/#contact-us">Contact Us</a>
+                  <a href="about.php">About Me</a>
+                  <a href="team.php">Meet the Team</a>
+                  <a href="consultancy.php">Consultancy Services</a>
+                  <a href="privacy.php">Privacy Policy</a>
+                  <a href="complaints.php">Complaints & Complements</a>
+                  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                  <i class="fa fa-bars"></i>
+                  </a>
+               </div>
             </div>
          </div>
       <hr class="hidden-bar">
