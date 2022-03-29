@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <link rel="icon" type="image/x-icon" href="images/logo.ico">
+</head>
 <style>
 	.container {
 		background-color: #f1f1f1;
@@ -96,7 +99,7 @@
 <div class="container">
 	<div class="about-inner">
 		<div class="img-container-about">
-			<img src="images/me.webp" class="me">
+			<img src="images/me.png" class="me">
 		</div>
 		<h1>About Me</h1>
 		<p>My name is Shaughn O’Donoghue, I am the director of Sunshine Specialist Supports and I’ve lived on the Sunshine Coast for 20 years.  I have worked in the disability sector for almost 30 years and am passionate about guiding people to get the most out of their life.  During this time, I’ve helped people with all abilities achieve incredible goals.</p>

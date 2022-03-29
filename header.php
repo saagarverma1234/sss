@@ -3,6 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Sunshine Specialist Supports</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="icon" type="image/x-icon" href="images/logo.ico">
 <style>
          html {
             scroll-behavior: smooth;
@@ -76,7 +77,7 @@
          display: block;
          color: #000;
          text-align: center;
-         padding: 14px 16px;
+         padding: 14px 14px;
          text-decoration: none;
          font-size: 1.3vh;
          }
@@ -235,11 +236,18 @@
             display: block;
          }
          }
+
+         @media only screen and (min-width: 601px) and (max-width: 1540px)  {
+            .topnav a {
+               font-size: 1vh;
+               padding: 14px 14px;
+            }
+         }
       </style>
    </head>
 <div class="outer-container">
    <div class="logo-container">
-      <img src="images/live-logo.png" class="logo logo-top">
+      <a href="/"><img src="images/live-logo.png" class="logo logo-top"></a>
       <hr style="width: 50%;" class="top-hr">
          <div class="navbar-container">
             <div class="extra-div">

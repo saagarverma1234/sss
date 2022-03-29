@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html>
    <head>
+      
+      <link rel="icon" type="image/x-icon" href="images/logo.ico">
+   
    	<style>
    		.mary {
    			width: 100%;
@@ -130,10 +133,10 @@
             <div class="grey-box-2" id="contact-us">
             	<div class="grey-container-x">
                <div>
-                  <img src="images/Contact-details-2022.webp">
+                  <img src="images/Contact-details-2022.png">
                </div>
                <div>
-                  <img src="images/hands.webp">
+                  <img src="images/hands.png">
                </div>
              </div>
             </div>
@@ -143,7 +146,7 @@
                   <img src="images/TAG-Registered-Provider.jpg">
                </div>
                <div>
-                  <img src="images/i-love-ndis.webp" class="love-ndis">
+                  <img src="images/i-love-ndis.png" class="love-ndis">
                </div>
             </div>
             <p style="font-size: 16px; text-align: center;" class="bottom-text">©2019 by Sunshine Specialist Supports.</p>

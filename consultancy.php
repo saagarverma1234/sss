@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <link rel="icon" type="image/x-icon" href="images/logo.ico">
+</head>
 <style>
 	.container {
 		background-color: #f1f1f1;

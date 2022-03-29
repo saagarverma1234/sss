@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
+      <link rel="icon" type="image/x-icon" href="images/logo.ico">
    </head>
    <body>
    	<div class="super-container">
@@ -8,7 +9,7 @@
             <?php include 'header.php';?> 
          <div class="inner-container">
             <h1>SUNSHINE SPECIALIST SUPPORTS</h1>
-            <img src="images/topimage.webp" class="top-image">
+            <img src="images/topimage.png" class="top-image">
             <h2 id="ndis-plan">It's all about you</h2>
             <p style="margin-bottom: 50px;">We specialise in helping people get the most out of themselves – to achieve incredible goals.  Our ultimate aim is to work with you to help you build your own capacity and help you build your team of supports that works with you to meet your needs.
                <br><br>
@@ -44,10 +45,10 @@
             <div class="grey-box-2" id="contact-us">
             	<div class="grey-container-x">
                <div>
-                  <img src="images/Contact-details-2022.webp">
+                  <img src="images/Contact-details-2022.png">
                </div>
                <div>
-                  <img src="images/hands.webp">
+                  <img src="images/hands.png">
                </div>
              </div>
             </div>
@@ -57,7 +58,7 @@
                   <img src="images/TAG-Registered-Provider.jpg">
                </div>
                <div>
-                  <img src="images/i-love-ndis.webp" class="love-ndis">
+                  <img src="images/i-love-ndis.png" class="love-ndis">
                </div>
             </div>
             <p style="font-size: 16px; text-align: center;" class="bottom-text">©2019 by Sunshine Specialist Supports.</p>
@@ -65,11 +66,11 @@
          </div>
       </div>
     </div>
-    <div class="bg-image">
+    <!-- <div class="bg-image">
        <div class="white-box">
           <img src="images/live-logo.png" class="logo"><br>
           <span>0412 080 494</span>
        </div>
-    </div>
+    </div> -->
    </body>
 </html>
