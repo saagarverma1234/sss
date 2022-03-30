@@ -160,7 +160,7 @@
             justify-content: center;
          }
 
-         @media screen and (max-width: 600px) {
+         @media screen and (max-width: 1049px) {
          .topnav a:not(:first-child) {display: none;}
            .topnav a.icon {
              float: right;
@@ -237,10 +237,17 @@
          }
          }
 
-         @media only screen and (min-width: 601px) and (max-width: 1540px)  {
+         @media only screen and (min-width: 1297px) and (max-width: 1540px)  {
             .topnav a {
                font-size: 1vh;
                padding: 14px 14px;
+            }
+         }
+
+         @media only screen and (min-width: 601px) and (max-width: 1296px)  {
+            .topnav a {
+               font-size: 1vh;
+               padding: 14px 6px;
             }
          }
       </style>
